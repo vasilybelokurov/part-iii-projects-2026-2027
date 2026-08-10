@@ -8,11 +8,11 @@ the Cambridge Part III / MASt in Astrophysics, 2026–27. Each project is a self
 
 | # | Title | Data | What the student does |
 |---|-------|------|-----------------------|
-| 01 | Discovering New Ultra-Faint Milky Way Satellites | Euclid DR1 | Search for ultra-faint dwarfs with isochrone filtering and difference-of-Gaussians maps; measure the selection function by injection–recovery; rank candidates. Streams as an extension. |
-| 02 | Stars on the Run: Hypervelocity and Runaway Stars | Euclid DR1 (NISP slitless spectra) | Calibrate Euclid radial velocities empirically, then run a blind RV-outlier search and a Gaia tangential-velocity search; trace the fastest stars back to their origins. |
-| 03 | Beyond the Clouds: Magellanic Outskirts | Euclid DR1 | Map the old stellar population around the LMC and SMC with main-sequence turn-off stars; fit and subtract a smooth model; search the residuals for new substructure. |
-| 04 | The 40-Second Sky: Minute-timescale Variables | Gaia DR4 (per-CCD photometry) | Detect brightness changes within a single ~40 s Gaia transit; rank coherent multi-CCD events; map fast variability across the Hertzsprung–Russell diagram. |
-| 05 | Archaeology in a Barred Galaxy: Discovering Inner-Halo Substructure | Gaia DR4 + spectroscopy | Recover ancient inner-halo debris in Jacobi energy H_J = E − Ω_b L_z paired with chemistry, where the bar smears the usual E–L_z map; measure contrast against permutation nulls; vet candidate relics. |
+| 01 | Discovering New Ultra-Faint Milky Way Satellites with Euclid DR1 | Euclid DR1 | Search for ultra-faint dwarfs with isochrone filtering and difference-of-Gaussians maps; measure the selection function by injection–recovery; rank candidates. Streams as an extension. |
+| 02 | Stars on the Run: Discovering Hypervelocity and Runaway Stars with Euclid DR1 | Euclid DR1 (NISP slitless spectra) | Calibrate Euclid radial velocities empirically, then run a blind RV-outlier search and a Gaia tangential-velocity search; trace the fastest stars back to their origins. |
+| 03 | Beyond the Clouds: Mapping the Smooth Halo and Discovering Stellar Substructure around the LMC and SMC with Euclid DR1 | Euclid DR1 | Map the old stellar population around the LMC and SMC with main-sequence turn-off stars; fit and subtract a smooth model; search the residuals for new substructure. |
+| 04 | The 40-Second Sky: Discovering Minute-timescale Variables with Gaia DR4 | Gaia DR4 (per-CCD photometry) | Detect brightness changes within a single ~40 s Gaia transit; rank coherent multi-CCD events; map fast variability across the Hertzsprung–Russell diagram. |
+| 05 | Archaeology in a Barred Galaxy: Discovering Inner-Halo Substructure with Gaia DR4, Jacobi Energy, and Chemistry | Gaia DR4 + spectroscopy | Recover ancient inner-halo debris in Jacobi energy H_J = E − Ω_b L_z paired with chemistry, where the bar smears the usual E–L_z map; measure contrast against permutation nulls; vet candidate relics. |
 
 Every project shares the same house style: discovery-driven, "detect-then-interpret",
 with validation built in — known systems recovered, injected mocks, and controlled nulls
