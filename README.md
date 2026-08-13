@@ -1,7 +1,8 @@
 # Part III / MASt Research Projects — 2026–27
 
-Research-project descriptions offered by **Vasily Belokurov** (with Sergey Koposov and
-other co-supervisors) for the Cambridge Part III / MASt in Astrophysics, 2026–27. Each
+Research-project descriptions for the Cambridge Part III / MASt in Astrophysics,
+2026–27, offered by **Vasily Belokurov, Sergey Koposov, Dolev Bashi, Cathie J. Clarke,
+Simon Hodgkin, Mika Kontiainen, Júlia Laguna Miralles,** and **Urvi Thakurdesai**. Each
 project is a self-contained `.docx`. Projects 01–06 are written to the departmental
 template; projects 07–10 (contributed by Dr Dolev Bashi) use their own document styling.
 
