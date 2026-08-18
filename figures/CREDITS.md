@@ -8,8 +8,9 @@ Candidate illustration figures for the five project descriptions.
   the linked pages).
 - **Published paper figures** (`01_cerny2023_*` © AAS; `02_koposov2020_*` &
   `02_marchetti2022_*` © the authors/OUP-MNRAS; `04b`, `04c`, `04d` © ESO; `05` © the
-  authors) are reproduced here with citation for internal/educational use; obtain
-  permission from the journal/authors for any formal publication.
+  authors; `07` © the authors/OUP-MNRAS) are reproduced here with citation for
+  internal/educational use; obtain permission from the journal/authors for any formal
+  publication.
 
 | File | Project | What it shows | Source page | Credit |
 |------|---------|---------------|-------------|--------|
@@ -30,6 +31,7 @@ Candidate illustration figures for the five project descriptions.
 | `04d_roelens2018_shorttimescale_hrd.png` | 04 Minute variability | HR diagram of the DR2 short-timescale candidates (white dwarfs, CVs, PCEBs, novae) — the project's deliverable, already demonstrated on DR2 | Roelens et al. (2018), A&A 620, A197 | © ESO |
 | `06_ward2022_ztf_lightcurves.png` | 06 Dwarf-AGN variability | **Embedded — Fig 1.** Reassembly of Ward et al. (2022) Fig. 2: ZTF g/r light curves of three variability-selected dwarf-AGN candidates (NSA 189758, 212423, 158589) showing smooth, correlated, damped-random-walk-like flicker — the accretion signal the project seeks in Gaia DR4 | Ward, C. et al. (2022), "Variability-selected Intermediate-mass Black Hole Candidates in Dwarf Galaxies from ZTF and WISE", ApJ 936, 104, doi:10.3847/1538-4357/ac8666, Fig. 2 (panels stacked) | © AAS |
 | `05_dillamore_sanders_HJ_FeH.png` | 05 Inner-halo Jacobi | Mock metallicity vs Jacobi integral H_J for 200 disrupted clusters, in three bar cases (no bar / steady bar / slowing bar): each cluster's debris stays a tight clump in [Fe/H]–H_J even as the bar slows — the exact premise of this project | https://arxiv.org/abs/2506.09117 (Fig. from the paper) | Dillamore & Sanders (2025), MNRAS 542, 1331 — © the authors |
+| `07_earp2019_gaswarp_tiltrate.png` | 07 Disc tilting | **Embedded — Fig 1.** Earp et al. (2019) Fig. 9: cold-gas/disc angular-momentum misalignment vs stellar disc tilting rate in the NIHAO sample, at z = 0.3, 0.15, 0 — the one robust correlate the project re-tests in TNG50 (the halo shape/spin/alignment show none) | https://academic.oup.com/mnras/article/488/4/5728/5542726 (arXiv:1907.10969), Fig. 9 | Earp et al. (2019), MNRAS 488, 5728 — © the authors/OUP |
 
 ## Notes on fit
 - **03, 05, and `01_cerny2023_bootesV_discovery`** are the strongest — they show the exact
