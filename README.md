@@ -39,7 +39,21 @@ own Word styles rather than the departmental template; left as supplied.
 ├── PROJECT_DESCRIPTION_GUIDE.md             # how to write a strong description
 ├── figures/                                 # illustration figures + CREDITS.md
 ├── docs/superpowers/specs/                  # design specs (project 1 so far)
+├── part_ii/                                 # simplified LaTeX/PDF versions for Part II students
 └── README.md
+```
+
+## Part II versions
+
+`part_ii/` holds simplified one-document descriptions of projects 01 and 05 for
+interested Part II students: title only, no supervisor names, no section headings,
+the published Figure 1, and a "Further reading" list with DOI links. Each explains
+the background, why it matters (with links to theory and simulations), what the new
+data release enables, and states the discovery goals up front. Figures load from
+`../figures/`. Build with:
+
+```bash
+cd part_ii && latexmk -pdf *.tex && latexmk -c
 ```
 
 ## Writing a new description
